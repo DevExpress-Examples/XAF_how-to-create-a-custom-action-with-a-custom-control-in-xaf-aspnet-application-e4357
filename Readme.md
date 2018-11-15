@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ViewController1.cs](./CS/Solution28.Module.Web/Controllers/ViewController1.cs) (VB: [ViewController1.vb](./VB/Solution28.Module.Web/Controllers/ViewController1.vb))
+* [MyParametrizedAction.cs](./CS/Solution28.Module.Web/MyParametrizedAction.cs) (VB: [MyParametrizedAction.vb](./VB/Solution28.Module.Web/MyParametrizedAction.vb))
+* [Default.aspx](./CS/Solution28.Web/Default.aspx)
+<!-- default file list end -->
 # How to create a custom Action with a custom control in XAF ASP.NET application
 
 
