@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ViewController1.cs](./CS/Solution28.Module.Web/Controllers/ViewController1.cs) (VB: [ViewController1.vb](./VB/Solution28.Module.Web/Controllers/ViewController1.vb))
+* **[MyParametrizedAction.cs](./CS/Solution28.Module.Web/MyParametrizedAction.cs) (VB: [MyParametrizedAction.vb](./VB/Solution28.Module.Web/MyParametrizedAction.vb))**
+* [DomainObject1.cs](./CS/Solution28.Module/BusinessObjects/DomainObject1.cs) (VB: [DomainObject1.vb](./VB/Solution28.Module/BusinessObjects/DomainObject1.vb))
+* [DefaultTemplateContent1.ascx](./CS/Solution28.Web/DefaultTemplateContent1.ascx) (VB: [DefaultTemplateContent1.ascx](./VB/Solution28.Web/DefaultTemplateContent1.ascx))
+* [Global.asax.cs](./CS/Solution28.Web/Global.asax.cs) (VB: [Global.asax.vb](./VB/Solution28.Web/Global.asax.vb))
+<!-- default file list end -->
 # How to create a custom Action with a custom control in XAF ASP.NET application
 
 
